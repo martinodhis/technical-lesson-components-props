@@ -176,3 +176,6 @@ function Home(props) {
 }
 export default Home;
 ```
+
+#  N/B (NOTE)
+-I  HAVE ONLY CHANGE THE HEADER TO FROM LIZ TO OKECH MARTIN TO REFLECT I AS PERSONAL BEGINNER 
